@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Supplement site for Integrating Parsons Puzzles with Scratch submitted to the 29TH International Conference On Computers In Education"
+title: "Supplement site for Learning Computational Thinking Efficiently submitted to the 29TH International Conference On Computers In Education"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
@@ -12,9 +12,26 @@ redirect_from:
 
 Abstract
 ======
-We surveyed grade 6-9 teachers to learn teacher perceptions of student engagement with computational thinking (CT) and how well their needs are met by existing CT learning systems. The results and a literature review lead us to extend the trend of balancing Scratch’s agency with structure to better serve learners and reduce burden on teachers aiming to learn and teach CT. In this paper, we integrate Parsons Programming Puzzles (PPPs) with Scratch and analyze the effects on adults, who crucially influence the education of their children. The results from our small pilot study suggest PPPs catalyze CT motivation, reduce extraneous cognitive load, and increase learning efficiency without jeopardizing performance on transfer tasks.
+Using a design thinking approach, we surveyed and interviewed
+grade 6-9 teachers on their experience with Scratch and Parsons
+Programming Puzzles (PPP). The results lead us to extend Scratch
+with gameful PPP functionality focused on individual
+computational thinking (CT) concepts. In this paper, we vary
+elements of PPPs presented to 624 adult learners to identify those
+yielding manageable cognitive load (CL), and maximum CT
+motivation and learning efficiency, for a general populace.
+Findings indicate PPPs with feedback and without distractors limit
+CL, those with feedback produce highest CT motivation, and
+those with an isolated block palette and without distractors
+produce highest CT learning efficiency. We analyze study data
+across nine conditions to offer insight to those developing PPP
+systems with the aim to advance equitable CT education for all.
 
-**Keywords:** computational thinking, parsons programming puzzles, scratch, motivation, cognitive load
+**Keywords:** Computational Thinking; Parsons Programming Puzzles; Scratch;
+              Motivation; Cognitive Load; Learning Efficiency.
+
+**CCS Concepts:** Social and professional topics~Professional topics~Computing
+              education~Computational thinking
 
 Contents
 ======

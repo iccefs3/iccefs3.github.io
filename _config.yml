@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Integrating Parsons Puzzles with Scratch"
+title                    : "Learning Computational Thinking Efficiently"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "We surveyed grade 6-9 teachers to surface teacher perceptions of student engagement with computational thinking (CT) and how well their needs are met by existing CT learning systems. The results and a literature review lead us to extend the trend of balancing Scratch’s agency with structure to better serve learners and reduce burden on teachers aiming to learn and teach CT. In this paper, we integrate Parsons Programming Puzzles (PPPs) with Scratch and analyze the effects on adults, who crucially influence the education of their children. The results from a small pilot study suggest the structure offered by PPPs catalyzes CT motivation, reduces extraneous cognitive load, and increases learning efficiency without jeopardizing performance on transfer tasks."
-url                      : https://ippssupplement.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lctesupplement.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ippssupplement.github.io"
+repository               : "lctesupplement.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Integrating Parsons Puzzles with Scratch"
+  name             : "Learning Computational Thinking Efficiently"
   avatar           : #"profile.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"Location"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"ippssupplement"
+  github           : #"lctesupplement"
   google_plus      :
   keybase          :
   instagram        :

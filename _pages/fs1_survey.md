@@ -262,7 +262,7 @@ redirect_from:
     </p>
 
 1. How would you describe your level of experience with computer applications like Scratch, Blockly, Alice, and Tynker?
-    <table width="100%" cellspacing="0" border="0" class="ippssupplement">
+    <table width="100%" cellspacing="0" border="0" class="lctesupplement">
         <thead>
             <tr>
                 <td colspan="5">
@@ -296,7 +296,7 @@ redirect_from:
     </table>
     
 1. On a scale of 1 to 10, how do you estimate your programming experience?
-    <table width="100%" cellspacing="0" border="0" class="ippssupplement">
+    <table width="100%" cellspacing="0" border="0" class="lctesupplement">
         <thead>
             <tr>
                 <td colspan="11">
