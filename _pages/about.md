@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Supplement site for Learning Computational Thinking Efficiently submitted to the 29TH International Conference On Computers In Education"
+title: "Supplement site for Learning Computational Thinking Efficiently submitted to the Twenty-Fourth Australasian Computing Education Conference"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
@@ -30,8 +30,8 @@ systems with the aim to advance equitable CT education for all.
 **Keywords:** Computational Thinking; Parsons Programming Puzzles; Scratch;
               Motivation; Cognitive Load; Learning Efficiency.
 
-**CCS Concepts:** Social and professional topics~Professional topics~Computing
-              education~Computational thinking
+**CCS Concepts:** Social and professional topics; Professional topics; Computing
+              education; Computational thinking
 
 Contents
 ======
