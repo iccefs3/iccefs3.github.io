@@ -1,6 +1,6 @@
 ---
 permalink: /puzzles_quests/
-title: "Puzzles"
+title: "Puzzles Quests"
 author_profile: false
 redirect_from: 
   - /puzzles_quests.html
