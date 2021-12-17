@@ -1,9 +1,9 @@
 ---
-permalink: /conditions_quests/
-title: "Conditions Quests"
+permalink: /puzzles_quests/
+title: "Puzzles"
 author_profile: false
 redirect_from: 
-  - /conditions_quests.html
+  - /puzzles_quests.html
 ---
 ||||
 |--- |--- |--- |

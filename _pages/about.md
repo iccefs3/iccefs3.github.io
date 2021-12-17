@@ -42,5 +42,5 @@ Contents
 1. [Survey Results](/survey_results/)
 1. [Demographics](/demographics/)
 1. [Usage Data](/usage_data/)
-1. [Conditions Quests Descriptions](/conditions_quests/)
+1. [Conditions Quests Descriptions](/puzzles_quests/)
 1. [Sequences Instructions](/sequences_instructions/)
