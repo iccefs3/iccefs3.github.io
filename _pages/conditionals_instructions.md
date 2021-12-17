@@ -120,17 +120,17 @@ First, you go to location x=130, y=50, which is your starting location. You reme
 
 Therefore, if you are touching color grey (color of the road): ![touching color grey](/images/conditionals_instructions/touching_color_grey.png)
 
-        You move 180 steps to find your car.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You move 180 steps to find your car.
 
-        Then, you say “Here is my car! Let me get some money! “ for 2 seconds.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, you say “Here is my car! Let me get some money! “ for 2 seconds.
 
-        You then wait for 3 sec to find cash in the car!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You then wait for 3 sec to find cash in the car!
 
 Now, if you are touching color red (color of the car):![touching color red](/images/conditionals_instructions/touching_color_red.png)
 
-        You go to location x=240, y=230, which is where the sailing store is.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You go to location x=240, y=230, which is where the sailing store is.
 
-        Once you get there, you say “Here is the sailing store!” for 2 seconds.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Once you get there, you say “Here is the sailing store!” for 2 seconds.
 
 Number of blocks required to solve this puzzle: 11
 
@@ -180,19 +180,19 @@ Now, you pick a random number from 1 to 2. 1 means sailing during daytime and 2 
 
 If the random number equals to 1, then:
 
-        You switch the background (backdrop) to “daytime”.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You switch the background (backdrop) to “daytime”.
 
-        You then think to yourself: “I should sail during the day!”
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You then think to yourself: “I should sail during the day!”
 
-        And you sail 200 steps to begin your sailing journey.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And you sail 200 steps to begin your sailing journey.
 
 Else:
 
-        You switch the background (backdrop) to “night time”.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You switch the background (backdrop) to “night time”.
 
-        You then think to yourself: “I should sail at night today!”
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You then think to yourself: “I should sail at night today!”
 
-        You then happily sail 200 steps to begin your sailing journey.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You then happily sail 200 steps to begin your sailing journey.
 
 Number of blocks required to solve this puzzle: 12
 
@@ -228,18 +228,18 @@ We will use a random process to determine whether your search will be successful
 
 If the number is smaller than 5:
 
-        You swim 100 steps.  All of the sudden you see the gems!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You swim 100 steps.  All of the sudden you see the gems!
 
-        Excitedly, you say: “I found the gems!” for 2 seconds.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excitedly, you say: “I found the gems!” for 2 seconds.
 
-        You then go to location x=20 and y=-90 to retrieve the gems!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You then go to location x=20 and y=-90 to retrieve the gems!
 
 Else:
 
-        You still swim 100 steps.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You still swim 100 steps.
 
-        However, you say: “Oops, I didn’t find anything”,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However, you say: “Oops, I didn’t find anything”,
 
-        Frustratedly, you then swim another 300 steps.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frustratedly, you then swim another 300 steps.
 
 Number of blocks required to solve this puzzle: 11
