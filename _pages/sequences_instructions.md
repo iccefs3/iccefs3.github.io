@@ -13,7 +13,7 @@ You are going to visit family friends! During this quest (4 puzzles in total), y
 ## Reminders & Hints:
 
 1. A **sprite** is a character or object you can control with programming blocks.
-1. If your Parsons palette is grey (disabled ![disabled](images/sequences_instructions/disabled.png)), you can use each enabled block multiple times.  If your Parsons palette is purple (enabled ![enabled](images/sequences_instructions/enabled.png)), make sure to use each block in the palette at most once.
+1. If your Parsons palette is grey (disabled ![disabled](/images/sequences_instructions/disabled.png)), you can use each enabled block multiple times.  If your Parsons palette is purple (enabled ![enabled](/images/sequences_instructions/enabled.png)), make sure to use each block in the palette at most once.
 1. If you follow the instructions precisely, you can earn the **highest score** using the **fewest moves** for each puzzle. This is your goal!  Choose carefully before moving each block from the palette.
 1. You will not be able to submit your solution until it is correct, or you have attempted twice the number of moves required to solve the puzzle successfully.
 
@@ -58,19 +58,19 @@ The solution of this warm up phase is provided below (requires scrolling). Try t
 
 
 Warm up Solution: 
-![warm up solution](images/sequences_instructions/warm_up_solution.png)
+![warm up solution](/images/sequences_instructions/warm_up_solution.png)
 
-![when start clicked](images/sequences_instructions/when_start_clicked.png): Don’t forget to use the when green flag clicked block to start the puzzle!
+![when start clicked](/images/sequences_instructions/when_start_clicked.png): Don’t forget to use the when green flag clicked block to start the puzzle!
 
-![go to x 170 y 0](images/sequences_instructions/go_to_x170.png): Use this block to go to a specified location of the oven.
+![go to x 170 y 0](/images/sequences_instructions/go_to_x170.png): Use this block to go to a specified location of the oven.
 
-![wait 3 seconds](images/sequences_instructions/wait.png): This block allows the puzzle to wait for 3 seconds before proceeding to the next step. In this case, we have to wait 3 seconds for the pie to bake.
+![wait 3 seconds](/images/sequences_instructions/wait.png): This block allows the puzzle to wait for 3 seconds before proceeding to the next step. In this case, we have to wait 3 seconds for the pie to bake.
 
-![next costume](images/sequences_instructions/next_costume.png): This block changes the costume of the sprite. In our case, it changes the color of the pie after baking.
+![next costume](/images/sequences_instructions/next_costume.png): This block changes the costume of the sprite. In our case, it changes the color of the pie after baking.
 
-![go to x -150 y 0](images/sequences_instructions/go_to_xn150.png): Use this block to go to the new specified location when we take the pie out.
+![go to x -150 y 0](/images/sequences_instructions/go_to_xn150.png): Use this block to go to the new specified location when we take the pie out.
 
-![pie ready](images/sequences_instructions/pie_ready.png): Use this to say things in the sprite. You can write attributes within the white rectangle. We use this block to say “Your pie is ready!” when the pie is ready.
+![pie ready](/images/sequences_instructions/pie_ready.png): Use this to say things in the sprite. You can write attributes within the white rectangle. We use this block to say “Your pie is ready!” when the pie is ready.
 
 ## Puzzle 1: Asking for Help
 
