@@ -43,4 +43,4 @@ Contents
 1. [Demographics](/demographics/)
 1. [Usage Data](/usage_data/)
 1. [Quests Descriptions](/puzzles_quests/)
-1. [Sequences Instructions](/sequences_instructions/)
+1. [Instructions](/instructions/)

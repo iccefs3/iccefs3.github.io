@@ -1,9 +1,10 @@
 ---
-permalink: /sequences_instructions/
-title: "Sequences Instructions"
+permalink: /instructions/
+title: "Instructions"
 author_profile: false
 redirect_from: 
   - /sequences_instructions.html
+  - /instructions.html
 ---
 Quest Instructions
 ------
