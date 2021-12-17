@@ -8,6 +8,13 @@ redirect_from:
 ||||
 |--- |--- |--- |
 |**Condition**|**Quest Name**|**Game Type**|
-|PPP|Your very first recipes! (A)|parsons|
-|PPPd|Your very first recipes!! (A)|parsons|
-|Scratch|Your very first recipes!!! (A)|parsons (no feedback no palette)|
+|PPP+f|Let's go sailing! (A)|parsons|
+|PPPd+f|Let's go sailing! (B)|parsons|
+|ScratchIE+f|Let's go sailing! (C)|parsons (no palette)|
+|ScratchIEd+f|Let's go sailing! (D)|parsons (no palette)|
+|PPP-f|Let's go sailing! (A2)|parsons (no feedback)|
+|PPPd-f|Let's go sailing! (B2)|parsons (no feedback)|
+|ScratchIE-f|Let's go sailing! (C2)|parsons (no feedback no palette)|
+|ScratchIEd-f|Let's go sailing! (D2)|parsons (no feedback no palette)|
+|PPP+f|Your very first recipes! (AC)|parsons|
+
