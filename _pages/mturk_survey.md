@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-## FS2 Mechanical Turk Survey Link Instructions
+## Mechanical Turk Survey Link Instructions
 
 We are conducting an academic research experiment about teaching and learning computational thinking (CT). 
 We need you to complete a series of activities designed to help us study a variety of ways to learn CT 
@@ -31,15 +31,13 @@ interruption.
 
 **Reminder: complete all activities in order using the same Username throughout to receive payment approval.**
 
-
-
 1. Visit [https://dev.cu-sage.org/#/reg](https://dev.cu-sage.org/#/reg) and create a new account. Per MTurk's policy, do not enter any personally identifiable information, but make sure to record the Username entered because you will need to enter it throughout the experiment.  The Username is not required to be an email address.
 2. Complete this [background survey](https://barnard.az1.qualtrics.com/jfe/form/SV_6tANvppcS2uGN9z).
 3. Review this [introduction](https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c3e0f6de-b46a-4905-b3e3-ac1e007caac9) to the learning system and to the CT concept of Conditionals.
 4. Complete the [pre-test](https://barnard.az1.qualtrics.com/jfe/form/SV_9vFzI0Sjy587T1z). <span style="color:orange;">*Timed Activity*</span>
 5. Provide [feedback on the pre-test](https://barnard.az1.qualtrics.com/jfe/form/SV_2ttGeiB6RG5QKDb).
 6. Login into [https://dev.cu-sage.org/](https://dev.cu-sage.org/), navigate to the assigned Quest, and attempt to complete four puzzles in the learning system. Please do not start the puzzles without first reviewing the instructions labeled _Start Here! |_ _Quest Instructions for All Puzzles_, as those are designed to accompany the puzzles. When you complete a puzzle or the timer expires, navigate to the next puzzle. Proceed to step 7 after you have attempted all four puzzles. <span style="color:orange;">*Timed Activity*</span> \
-<span style="color:red;">**Note: we track interactions with the puzzles and have had to reject many submissions that would have otherwise been accepted had this step been completed.  Please consider skipping this HIT if not intending to attempt to solve the puzzles.**</skip>
+<span style="color:red;">**Note: we track interactions with the puzzles and have had to reject many submissions that would have otherwise been accepted had this step been completed.  Please consider skipping this HIT if not intending to attempt to solve the puzzles.**</span>
 7. Provide [puzzle feedback](https://barnard.az1.qualtrics.com/jfe/form/SV_cD7B3zMk5dZG0jH).
 8. Complete the [post-test](https://barnard.az1.qualtrics.com/jfe/form/SV_1ZeLtZFWmSaAAcJ). <span style="color:orange;">*Timed Activity*</span>
 9. Provide [feedback on the post-test](https://barnard.az1.qualtrics.com/jfe/form/SV_3I9d9XFE1Q1HSeN).

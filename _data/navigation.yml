@@ -6,8 +6,11 @@ main:
   - title: "Surveys"
     url: /surveys/
 
-  - title: "Mechanical Turk Survey"
+  - title: "Mechanical Turk Survey Instructions"
     url: /mturk_survey/
+
+  - title: "Prolific Survey Instructions"
+    url: /prolific_instructions/
 
   - title: "Survey Results"
     url: /survey_results/

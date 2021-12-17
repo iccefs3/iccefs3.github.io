@@ -37,7 +37,8 @@ Contents
 ======
 1. [Intervention Description](/intervention/)
 1. [Surveys](/surveys/)
-1. [Mechanical Turk Survey](/mturk_survey/)
+1. [Mechanical Turk Survey Instructions](/mturk_survey/)
+1. [Prolific Survey Instructions](/prolific_instructions/)
 1. [Survey Results](/survey_results/)
 1. [Demographics](/demographics/)
 1. [Usage Data](/usage_data/)
