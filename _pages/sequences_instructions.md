@@ -13,7 +13,7 @@ You are going to visit family friends! During this quest (4 puzzles in total), y
 ## Reminders & Hints:
 
 1. A **sprite** is a character or object you can control with programming blocks.
-1. If your Parsons palette is grey (disabled ![disabled](/images/sequences_instructions/disabled.png)), you can use each enabled block multiple times.  If your Parsons palette is purple (enabled ![enabled](/images/sequences_instructions/enabled.png)), make sure to use each block in the palette at most once.
+1. If your Parsons palette is grey (disabled ![disabled](/images/sequences_instructions/parsons_disabled.png)), you can use each enabled block multiple times.  If your Parsons palette is purple (enabled ![enabled](/images/sequences_instructions/parsons_enabled.png)), make sure to use each block in the palette at most once.
 1. If you follow the instructions precisely, you can earn the **highest score** using the **fewest moves** for each puzzle. This is your goal!  Choose carefully before moving each block from the palette.
 1. You will not be able to submit your solution until it is correct, or you have attempted twice the number of moves required to solve the puzzle successfully.
 
