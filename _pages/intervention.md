@@ -122,7 +122,15 @@ redirect_from:
 </table>
 
 
-The formative study helped prioritize development, refine learning materials, and organize a summative evaluation via a quantitative experiment between-subjects across conditions, with some within-subject measurements. As outlined in Table 1, participants: 1) created credentials in the learning system, which randomly assigned them to 1 of the 9 conditions documented in Table 2; 2) provided demographic detail; 3) reviewed an 8-minute introductory tutorial on the learning system and the CT concept of _conditionals_; 4, 8) took isomorphic pre/posttests; 5, 7, 9) self-reported CL after tests/training through a validated CS CL component survey (CS CLCS) [[65](#bookmark=id.3o7alnk)]; 6) trained via 4 puzzles time-boxed for 8 minutes each; 2, 10) recorded CT perceptions and programming attitude via a Likert scale derived from categorized text responses by adults in [[3](#bookmark=id.vx1227)] at study start/end; 10) responded to a validated intrinsic motivation Task Evaluation Questionnaire (TEQ) [[66](#bookmark=id.23ckvvd)]. Materials are available at https://bit.ly/3pXjO9o.
+The formative study helped prioritize development, refine learning materials, and organize a summative evaluation via a 
+quantitative experiment between-subjects across conditions, with some within-subject measurements. As outlined in Table 
+, participants: 1) created credentials in the learning system, which randomly assigned them to 1 of the 9 conditions 
+documented in Table 2; 2) provided demographic detail; 3) reviewed an 8-minute introductory tutorial on the learning 
+system and the CT concept of _conditionals_; 4, 8) took isomorphic pre/posttests; 5, 7, 9) self-reported CL after 
+tests/training through a validated CS CL component survey (CS CLCS); 6) trained via 4 puzzles time-boxed for 8 minutes 
+each; 2, 10) recorded CT perceptions and programming attitude via a Likert scale derived from categorized text 
+responses by adults in at study start/end; 10) responded to a validated intrinsic motivation 
+Task Evaluation Questionnaire (TEQ).
 
 **Table 2: Variation & participation across 9 study conditions**
 <table>
