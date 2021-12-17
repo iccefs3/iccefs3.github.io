@@ -17,4 +17,4 @@ an experimental learning system while guided by written instructions. In order t
 system, your browser will need to run Flash (Chrome is recommended). Your participation is a very
 valuable element of our research and we are grateful for your time and feedback.
 
-[Study guide from Prolific](https://barnard.az1.qualtrics.com/jfe/form/SV_3L5EAy2mpp6Yf8p)
+[Study guide from Prolific](/files/lcte/00_-_Study_2_Guide.pdf)

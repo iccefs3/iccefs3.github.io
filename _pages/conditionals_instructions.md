@@ -35,6 +35,8 @@ We will provide these blocks to you in the instructions when needed.  They will 
 
 ## Warm up puzzle: At the casino
 
+{% include image-gallery.html folder="/images/puzzles/conditionals/0" %}
+
 During your vacation, you go to the casino with your friend Kala and decide to play roulette! You choose to play by color. There are two options, red and black. In this puzzle: 1=red and 2=black.
 
 
@@ -112,6 +114,8 @@ Warm up Solution:
 
 ## First puzzle: Shopping for supplies
 
+{% include image-gallery.html folder="/images/puzzles/conditionals/1" %}
+
 The casino was a huge success for both you and Kala! You have decided to use the money you won and go sailing. However, you need to go to the sailing store to get supplies first.
 
 
@@ -167,6 +171,8 @@ Number of blocks required to solve this puzzle: 11
 
 ## Second puzzle: When to sail today?
 
+{% include image-gallery.html folder="/images/puzzles/conditionals/2" %}
+
 Now that you have gotten your supplies, you are ready to sail with Kala! However, you want to check the weather to decide if you should sail during the day or at night.
 
 
@@ -215,6 +221,8 @@ Number of blocks required to solve this puzzle: 12
 
 
 ## Third puzzle: Finding gems in the ocean
+
+{% include image-gallery.html folder="/images/puzzles/conditionals/3" %}
 
 Your friend Kala tells you she has heard of long-lost gems at the bottom of this part of the ocean. Since you still have lots of money left from the casino, you have decided to go on a scuba dive trip to try to find all those gems!
 

@@ -19,6 +19,8 @@ You are going to visit family friends! During this quest (4 puzzles in total), y
 
 ## Warm up: Let’s Bake a Cake
 
+{% include image-gallery.html folder="/images/puzzles/sequences/0" %}
+
 In this puzzle, you are going to bake a pie for your friends.
 
 First, you go to the location x=170, y=0, which is where the oven is located.
@@ -72,6 +74,8 @@ Warm up Solution:
 
 ## Puzzle 1: Asking for Help
 
+{% include image-gallery.html folder="/images/puzzles/sequences/1" %}
+
 You tried a slice of your pie and realized that you forgot to add sugar! In this puzzle, you will consult a recipe book to bake another pie for your friends.
 
 First, you go to the recipe book at location x=-170, y=-30.
@@ -100,6 +104,8 @@ Number of blocks required to solve this puzzle: 16
 
 ## Puzzle 2: Are we there yet? - Part One
 
+{% include image-gallery.html folder="/images/puzzles/sequences/2" %}
+
 Your pie from the last puzzle was a success! You are really proud of yourself and decide to bring it to your friend’s house. You have decided to bring your younger friend Jasmine with you, who is rather inquisitive.
 
 
@@ -111,6 +117,8 @@ This sequence happens **six times** until finally you say “we are there!”
 Number of blocks required to solve this puzzle: 14
 
 ## Puzzle 3: Are we there yet? - Part Two
+
+{% include image-gallery.html folder="/images/puzzles/sequences/3" %}
 
 Now, is there a better way to represent the previous scenario? Do we need to use new blocks everytime Jasmine repeats the same question? Probably not. Now, the challenge is to find a simpler puzzle construction to solve the previous problem. You are allowed to use each block only **once**!
 
