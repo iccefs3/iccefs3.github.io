@@ -6,9 +6,11 @@ redirect_from:
   - /surveys.html
 ---
 
-1. [Background Survey](/background_survey/)
-1. [Pre-Test Survey](/fs1-pre-test-survey-sequences/)
-1. [After Puzzle Survey](/files/03_puzzle_cognitive_load_survey.pdf)
-1. [Post-Test Survey](/files/04_post-test_survey.pdf)
-1. [After Post-Test Survey](/files/05_post-test_cognitive_load_survey.pdf)
-1. [Intrinsic Motivation Survey](/files/06_intrinsic_motivation_and_attitude_survey.pdf)
+1. [Prolific Guide](/files/lcte/0_-_Study_2_Guide.pdf)
+1. [Background Survey](/files/lcte/01_-_Background_Information.pdf)
+1. [Pre-Test](/files/lcte/02_-_Pre-Test_-_Conditionals.pdf)
+1. [After Pre-Test](/files/lcte/03_-_After_Pre-test.pdf)
+1. [After Puzzle](/files/lcte/04_-_After_Puzzle.pdf)
+1. [Post-Test](/files/lcte/05_-_Post-Test_-_Conditionals.pdf)
+1. [After Post-Test](/files/lcte/06_-_After_Post_Test.pdf)
+1. [Intrinsic Motiviation](/files/lcte/07_-_Intrinsic_Motivation.pdf)
