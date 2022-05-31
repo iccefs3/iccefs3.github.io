@@ -20,7 +20,7 @@ redirect_from:
 |     9       |     CS CLCS                          |     10 CL questions with 0\-10 scaled responses                                                                                                                        |     Posttest CL & IL/EL/GL components                                                                                       |
 |     10      |     Concluding measurements          |     Motivation, programming attitude, learning system feedback, CT perceptions                                                                                   |     TEQ, CAS, & programming attitude,    CT perceptions                                                                  |
 
-To test our hypotheses, we developed a quantitative experiment between-subjects, with some within- subject measurements.
+To test our hypotheses, we developed a quantitative experiment between-subjects, with some within-subject measurements.
 We devised 12 study conditions detailed in Table 1 to ensure we could granularly analyze the effect of various PPP
 elements on learning outcomes and help fill a gap in the literature pertaining to which PPP elements prove most useful
 for learning. As documented in Table 1, participants followed a 10-step protocol which in part required them to respond
@@ -39,7 +39,7 @@ C5    | Looping    | 1-palette    | Objectives | No
 C6    | Looping    | Multi-palette | Objectives | No
 C7    | Looping    | 1-palette    | 3 Correctness, 2 Correctness + Objectives, 2 Objectives | Correctness feedback faded
 C8    | Looping    | Multi-palette | 3 Correctness, 2 Correctness + Objectives, 2 Objectives | Correctness feedback faded
-C9    | Looping 4: 1-palette, 3: multi-palette | 3 Correctness, 2 Correctness + Objectives, 2 Objectives | Correctness feedback & 1-palette faded
+C9    | Looping    | 4: 1-palette, 3: multi-palette | 3 Correctness, 2 Correctness + Objectives, 2 Objectives | Correctness feedback & 1-palette faded
 C10   | Looping    | Multi-palette | None | No
 C11   | Looping    | Multi-palette + distractors | None | No
 C12   | Sequences  | 1-palette | Correctness | No
