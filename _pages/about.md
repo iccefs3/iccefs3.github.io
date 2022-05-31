@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Supplement site for Learning Computational Thinking Efficiently submitted to the Twenty-Fourth Australasian Computing Education Conference"
-excerpt: "About me"
+title: "Supplement site for Learning Computational Thinking Efficiently with Block-based Parsons Puzzles submitted to the 30th International Conference on Computers in Education"
+excerpt: "Learning Computational Thinking Efficiently with Block-based Parsons Puzzles"
 author_profile: false
 redirect_from: 
   - /about/
@@ -12,26 +12,18 @@ redirect_from:
 
 Abstract
 ======
-Using a design thinking approach, we surveyed and interviewed
-grade 6-9 teachers on their experience with Scratch and Parsons
-Programming Puzzles (PPP). The results lead us to extend Scratch
-with gameful PPP functionality focused on individual
-computational thinking (CT) concepts. In this paper, we vary
-elements of PPPs presented to 624 adult learners to identify those
-yielding manageable cognitive load (CL), and maximum CT
-motivation and learning efficiency, for a general populace.
-Findings indicate PPPs with feedback and without distractors limit
-CL, those with feedback produce highest CT motivation, and
-those with an isolated block palette and without distractors
-produce highest CT learning efficiency. We analyze study data
-across nine conditions to offer insight to those developing PPP
-systems with the aim to advance equitable CT education for all.
+To investigate learning system elements and progressions that affect computational
+thinking (CT) learning in block-based environments, we developed a Parsons Programming
+Puzzle (PPP) module within Scratch with scaffolding customized via a novel Blockly grammar.
+By varying the presentation and types of feedback encountered between- and within-subjects in
+a study of 579 adults, we identified features and scaffolding strategies that yield manageable
+cognitive load (CL), improved CT learning efficiency, and increased motivation, for a general
+populace. Findings indicate: 1) PPPs with feedback induce lowest CL; 2) an isolated palette,
+correctness feedback, and fading correctness feedback increase learning efficiency; 3) fading
+scaffolding can increase CT motivation. We analyze 12 conditions to provide insight to those
+developing block-based PPP systems with the aim to advance equitable CT education for all.
 
-**Keywords:** Computational Thinking; Parsons Programming Puzzles; Scratch;
-              Motivation; Cognitive Load; Learning Efficiency.
-
-**CCS Concepts:** Social and professional topics; Professional topics; Computing
-              education; Computational thinking
+**Keywords:** computational thinking, parsons programming puzzles, scratch, motivation, cognitive load
 
 Contents
 ======
