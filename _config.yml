@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Learning Computational Thinking Efficiently"
+title                    : "Learning Computational Thinking Efficiently with Block-based Parsons Puzzles"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "We surveyed grade 6-9 teachers to surface teacher perceptions of student engagement with computational thinking (CT) and how well their needs are met by existing CT learning systems. The results and a literature review lead us to extend the trend of balancing Scratch’s agency with structure to better serve learners and reduce burden on teachers aiming to learn and teach CT. In this paper, we integrate Parsons Programming Puzzles (PPPs) with Scratch and analyze the effects on adults, who crucially influence the education of their children. The results from a small pilot study suggest the structure offered by PPPs catalyzes CT motivation, reduces extraneous cognitive load, and increases learning efficiency without jeopardizing performance on transfer tasks."
-url                      : https://lctesupplement.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "To investigate learning system elements and progressions that affect computational thinking (CT) learning in block-based environments, we developed a Parsons Programming Puzzle (PPP) module within Scratch with scaffolding customized via a novel Blockly grammar. By varying the presentation and types of feedback encountered between- and within-subjects in a study of 579 adults, we identified features and scaffolding strategies that yield manageable cognitive load (CL), improved CT learning efficiency, and increased motivation, for a general populace. Findings indicate: 1) PPPs with feedback induce lowest CL; 2) an isolated palette, correctness feedback, and fading correctness feedback increase learning efficiency; 3) fading scaffolding can increase CT motivation. We analyze 12 conditions to provide insight to those developing block-based PPP systems with the aim to advance equitable CT education for all."
+url                      : https://iccefs3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lctesupplement.github.io"
+repository               : "iccefs3.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Learning Computational Thinking Efficiently"
+  name             : "Learning Computational Thinking Efficiently with Block-based Parsons Puzzles"
   avatar           : #"profile.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"Location"
