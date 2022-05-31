@@ -7,301 +7,39 @@ redirect_from:
 ---
 **Table 1: Study protocol and data collected**
 
+|     Step    |     Activity                         |     Content                                                                                                                                                            |     Data Collected                                                                                                          |
+|-------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+|     1       |     Registration                     |     Credentials creation & condition assignment                                                                                                                        |     Username & password                                                                                                     |
+|     2       |     Background info                  |     Demographic                                                                                                                                                        |     Demographic, programming attitude,    CAS, CT perceptions                                                            |
+|     3       |     Tutorial                         |     8\-minute video on the learning system & looping                                                                                                                   |     N/A                                                                                                                     |
+|     4       |     Pretest \(isomorphic\)           |     7 multiple\-choice \(4\-choice\) looping questions                                                                                                                 |     Pretest responses & score                                                                                               |
+|     5       |     CS CLCS                          |     10 CL questions with 0\-10 scaled responses                                                                                                                        |     Pretest CL & IL/EL/GL components                                                                                        |
+|     6       |     Puzzles                          |     7 puzzles on looping in 11 of 12 conditions; learning system behavior varies by condition; 7 puzzles on sequences in the 12th condition \(control\)    |     Per\-puzzle time spent, time\-stamped    block moves & score, correctness,    feedback log, self\-explanations    |
+|     7       |     CS CLCS                          |     10 CL questions with 0\-10 scaled responses                                                                                                                        |     Puzzle CL & IL/EL/GL components                                                                                         |
+|     8       |     Posttest \(isomorphic\)          |     7 multiple\-choice \(4\-choice\) looping questions                                                                                                                 |     Posttest responses & score                                                                                              |
+|     9       |     CS CLCS                          |     10 CL questions with 0\-10 scaled responses                                                                                                                        |     Posttest CL & IL/EL/GL components                                                                                       |
+|     10      |     Concluding measurements          |     Motivation, programming attitude, learning system feedback, CT perceptions                                                                                   |     TEQ, CAS, & programming attitude,    CT perceptions                                                                  |
 
-<table>
-  <tr>
-   <td><strong>#</strong>
-   </td>
-   <td><strong>Activity</strong>
-   </td>
-   <td><strong>Content</strong>
-   </td>
-   <td><strong>Data Collected </strong>
-   </td>
-  </tr>
-  <tr>
-   <td>1
-   </td>
-   <td>Registration
-   </td>
-   <td>Credentials creation & condition assignment
-   </td>
-   <td>Username & password
-   </td>
-  </tr>
-  <tr>
-   <td>2
-   </td>
-   <td>Background info
-   </td>
-   <td>Demographics
-   </td>
-   <td>Age, gender, education, country, programming experience & attitude, CT perceptions
-   </td>
-  </tr>
-  <tr>
-   <td>3
-   </td>
-   <td>Tutorial
-   </td>
-   <td>8-minute video on the learning system & <em>conditionals</em>
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td>4
-   </td>
-   <td>Pretest (isomorphic)
-   </td>
-   <td>10 multiple-choice <em>conditionals</em> questions
-   </td>
-   <td>Pretest responses & score
-   </td>
-  </tr>
-  <tr>
-   <td>5
-   </td>
-   <td>CS CLCS
-   </td>
-   <td>10 CL questions with 0-10 scaled responses
-   </td>
-   <td>Pretest CL & IL/EL/GL components
-   </td>
-  </tr>
-  <tr>
-   <td>6
-   </td>
-   <td>Puzzles
-   </td>
-   <td>4 puzzles on <em>conditionals</em> in 8 of 9 conditions; learning system behavior varies by condition; 4 puzzles on <em>sequences</em> in control condition 
-   </td>
-   <td>Per-puzzle time spent, time-stamped block moves & score, correctness, generated feedback, participant self-explanations
-   </td>
-  </tr>
-  <tr>
-   <td>7
-   </td>
-   <td>CS CLCS
-   </td>
-   <td>10 CL questions with 0-10 scaled responses
-   </td>
-   <td>Puzzle CL & IL/EL/GL components
-   </td>
-  </tr>
-  <tr>
-   <td>8
-   </td>
-   <td>Posttest (isomorphic)
-   </td>
-   <td>10 multiple-choice <em>conditionals</em> questions
-   </td>
-   <td>Posttest responses & score
-   </td>
-  </tr>
-  <tr>
-   <td>9
-   </td>
-   <td>CS CLCS
-   </td>
-   <td>10 CL questions with 0-10 scaled responses
-   </td>
-   <td>Posttest CL & IL/EL/GL components
-   </td>
-  </tr>
-  <tr>
-   <td>10
-   </td>
-   <td>Concluding measurements
-   </td>
-   <td>Motivation, programming attitude, learning system feedback, CT perceptions
-   </td>
-   <td>TEQ & programming attitude, learning system viewpoints, CT perceptions
-   </td>
-  </tr>
-</table>
+To test our hypotheses, we developed a quantitative experiment between-subjects, with some within- subject measurements.
+We devised 12 study conditions detailed in Table 1 to ensure we could granularly analyze the effect of various PPP
+elements on learning outcomes and help fill a gap in the literature pertaining to which PPP elements prove most useful
+for learning. As documented in Table 1, participants followed a 10-step protocol which in part required them to respond
+to a validated: 1) CS CL component survey (CS CLCS); 2) intrinsic motivation Task Evaluation Questionnaire (TEQ); 3)
+Computing Attitudes Survey (CAS).
 
+**Table 2: PPP scaffolding variation across 12 study conditions**
 
-The formative study helped prioritize development, refine learning materials, and organize a summative evaluation via a 
-quantitative experiment between-subjects across conditions, with some within-subject measurements. As outlined in Table 
-, participants: 1) created credentials in the learning system, which randomly assigned them to 1 of the 9 conditions 
-documented in Table 2; 2) provided demographic detail; 3) reviewed an 8-minute introductory tutorial on the learning 
-system and the CT concept of _conditionals_; 4, 8) took isomorphic pre/posttests; 5, 7, 9) self-reported CL after 
-tests/training through a validated CS CL component survey (CS CLCS); 6) trained via 4 puzzles time-boxed for 8 minutes 
-each; 2, 10) recorded CT perceptions and programming attitude via a Likert scale derived from categorized text 
-responses by adults in at study start/end; 10) responded to a validated intrinsic motivation 
-Task Evaluation Questionnaire (TEQ).
-
-**Table 2: Variation & participation across 9 study conditions**
-<table>
-  <tr>
-   <td>**Cond.**
-
-   </td>
-   <td>**CT Concept**
-
-   </td>
-   <td>**Presentation**
-
-   </td>
-   <td>**Distractors**
-
-   </td>
-   <td>**Feedback**
-
-   </td>
-  </tr>
-  <tr>
-   <td>C1
-
-   </td>
-   <td>Conditionals
-
-   </td>
-   <td>1 palette
-
-   </td>
-   <td>N
-
-   </td>
-   <td>Y
-
-   </td>
-  </tr>
-  <tr>
-   <td>C2
-
-   </td>
-   <td>Conditionals
-
-   </td>
-   <td>1 palette
-
-   </td>
-   <td>Y
-
-   </td>
-   <td>Y
-
-   </td>
-  </tr>
-  <tr>
-   <td>C3
-
-   </td>
-   <td>Conditionals
-
-   </td>
-   <td>Multi-palette
-
-   </td>
-   <td>N
-
-   </td>
-   <td>Y
-
-   </td>
-  </tr>
-  <tr>
-   <td>C4
-
-   </td>
-   <td>Conditionals
-
-   </td>
-   <td>Multi-palette
-
-   </td>
-   <td>Y
-
-   </td>
-   <td>Y
-
-   </td>
-  </tr>
-  <tr>
-   <td>C5
-
-   </td>
-   <td>Conditionals
-
-   </td>
-   <td>1 palette
-
-   </td>
-   <td>N
-
-   </td>
-   <td>N
-
-   </td>
-  </tr>
-  <tr>
-   <td>C6
-
-   </td>
-   <td>Conditionals
-
-   </td>
-   <td>1 palette
-
-   </td>
-   <td>Y
-
-   </td>
-   <td>N
-
-   </td>
-  </tr>
-  <tr>
-   <td>C7
-
-   </td>
-   <td>Conditionals
-
-   </td>
-   <td>Multi-palette
-
-   </td>
-   <td>N
-
-   </td>
-   <td>N
-
-   </td>
-  </tr>
-  <tr>
-   <td>C8
-
-   </td>
-   <td>Conditionals
-
-   </td>
-   <td>Multi-palette
-
-   </td>
-   <td>Y
-
-   </td>
-   <td>N
-
-   </td>
-  </tr>
-  <tr>
-   <td>C9
-
-   </td>
-   <td>Sequences
-
-   </td>
-   <td>1 palette
-
-   </td>
-   <td>N
-
-   </td>
-   <td>Y
-
-   </td>
-  </tr>
-</table>
+Cond. | CT Concept | Presentation | Feedback    | Fading Scaffolding
+------|------------|--------------|-------------|-------------------
+C1    | Looping    | 1-palette    | Correctness | No
+C2    | Looping    | Multi-palette | Correctness | No
+C3    | Looping    | 1-palette     | Correctness + Objectives | No
+C4    | Looping    | Multi-palette | Correctness + Objectives | No
+C5    | Looping    | 1-palette    | Objectives | No
+C6    | Looping    | Multi-palette | Objectives | No
+C7    | Looping    | 1-palette    | 3 Correctness, 2 Correctness + Objectives, 2 Objectives | Correctness feedback faded
+C8    | Looping    | Multi-palette | 3 Correctness, 2 Correctness + Objectives, 2 Objectives | Correctness feedback faded
+C9    | Looping 4: 1-palette, 3: multi-palette | 3 Correctness, 2 Correctness + Objectives, 2 Objectives | Correctness feedback & 1-palette faded
+C10   | Looping    | Multi-palette | None | No
+C11   | Looping    | Multi-palette + distractors | None | No
+C12   | Sequences  | 1-palette | Correctness | No
