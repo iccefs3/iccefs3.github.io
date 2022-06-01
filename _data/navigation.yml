@@ -24,8 +24,5 @@ main:
   - title: "Quests Descriptions"
     url: /puzzles_quests/
 
-  - title: "Conditionals Instructions"
-    url: /conditionals_instructions/
-
   - title: "Sequences Instructions"
     url: /sequences_instructions/
