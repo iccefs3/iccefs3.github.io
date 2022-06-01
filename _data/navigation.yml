@@ -6,6 +6,9 @@ main:
   - title: "Surveys"
     url: /surveys/
 
+  - title: "SAGE Objective Editor Language"
+    url: /language/
+
   - title: "Mechanical Turk Survey Instructions"
     url: /mturk_survey/
 
