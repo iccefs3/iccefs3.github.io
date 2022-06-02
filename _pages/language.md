@@ -31,29 +31,29 @@ expectation:
     
 actual:
 
-&nbsp;&nbsp;&nbsp;&nbsp;**actl-sprite**
-&nbsp;&nbsp;&nbsp;&nbsp;**actl-block**
-&nbsp;&nbsp;&nbsp;&nbsp;**actl-block-type**
-&nbsp;&nbsp;&nbsp;&nbsp;**actl-key-pressed**
-&nbsp;&nbsp;&nbsp;&nbsp;**actl-sprite-touch-sprite**
+&nbsp;&nbsp;&nbsp;&nbsp;**actl-sprite**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;**actl-block**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;**actl-block-type**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;**actl-key-pressed**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;**actl-sprite-touch-sprite**<br />
 &nbsp;&nbsp;&nbsp;&nbsp;**actl-sprite-touch-color**
 
 assert:
 
-&nbsp;&nbsp;&nbsp;&nbsp;**asrt-should**
+&nbsp;&nbsp;&nbsp;&nbsp;**asrt-should**<br />
 &nbsp;&nbsp;&nbsp;&nbsp;**asrt-should-not**
 
 matcher:
 
-&nbsp;&nbsp;&nbsp;&nbsp;**mtch-be-present**
-&nbsp;&nbsp;&nbsp;&nbsp;**mtch-be-on-x-y**
-&nbsp;&nbsp;&nbsp;&nbsp;**mtch-point-direction**
-&nbsp;&nbsp;&nbsp;&nbsp;**mtch-move-steps**
+&nbsp;&nbsp;&nbsp;&nbsp;**mtch-be-present**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;**mtch-be-on-x-y**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;**mtch-point-direction**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;**mtch-move-steps**<br />
 &nbsp;&nbsp;&nbsp;&nbsp;**mtch-say**
 
 trigger-list:
 
-&nbsp;&nbsp;&nbsp;&nbsp;trigger
+&nbsp;&nbsp;&nbsp;&nbsp;trigger<br />
 &nbsp;&nbsp;&nbsp;&nbsp;trigger-list &#8595; trigger
 
 trigger:
@@ -62,13 +62,13 @@ trigger:
 
 condition:
 
-&nbsp;&nbsp;&nbsp;&nbsp;**cnd-if-pass**
+&nbsp;&nbsp;&nbsp;&nbsp;**cnd-if-pass**<br />
 &nbsp;&nbsp;&nbsp;&nbsp;**cnd-if-fail**
 
 action:
 
-&nbsp;&nbsp;&nbsp;&nbsp;**actn-say**
-&nbsp;&nbsp;&nbsp;&nbsp;**actn-include-block**
+&nbsp;&nbsp;&nbsp;&nbsp;**actn-say**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;**actn-include-block**<br />
 &nbsp;&nbsp;&nbsp;&nbsp;**actn-exclude-block**
  
 ## Terminals
