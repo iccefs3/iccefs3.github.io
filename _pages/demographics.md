@@ -18,4 +18,4 @@ redirect_from:
 
 <iframe width="749" height="367" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTiUhscE1oB36s_7-4skKvcPEKebv-s-9idkphg1hNOG32oKjOeLy4ULk_bNRKJkvDCZwrP5VGn1J4-/pubchart?oid=371782091&amp;format=interactive"></iframe>
 
-<iframe width="1377" height="675" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTiUhscE1oB36s_7-4skKvcPEKebv-s-9idkphg1hNOG32oKjOeLy4ULk_bNRKJkvDCZwrP5VGn1J4-/pubchart?oid=1027619096&amp;format=interactive"></iframe>
+<iframe width="1004" height="675" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTiUhscE1oB36s_7-4skKvcPEKebv-s-9idkphg1hNOG32oKjOeLy4ULk_bNRKJkvDCZwrP5VGn1J4-/pubchart?oid=1027619096&amp;format=interactive"></iframe>
