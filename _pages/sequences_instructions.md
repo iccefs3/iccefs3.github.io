@@ -13,11 +13,12 @@ You are going to visit family friends! During this quest (4 puzzles in total), y
 ## Reminders & Hints:
 
 1. A sprite is a character or object you can control with programming blocks.
-1. Start each puzzle with the block, When Green Flag is Clicked  ![Start each puzzle with the block, When Green Flag is Clicked](/images/fs3/sequences_instructions/when_green_clicked.png)
+1. Start each puzzle with the block, When Green Flag is Clicked  ![Start each puzzle with the block, When Green Flag is Clicked](/images/fs3/sequences_instructions/fs3_i_greenflag.png)
 1. If your Parsons palette is grey (disabled ![parsons disabled](/images/fs3/sequences_instructions/parsons_grey.png)), you can use each enabled block multiple times.  If your Parsons palette is purple (enabled ![parsons enabled](/images/fs3/sequences_instructions/parsons_purple.png)), make sure to use each block in the palette at most once.
 1. If you follow the instructions precisely, you can earn the highest score using the fewest moves for each puzzle.  This is your goal!  You might or might not receive various types of feedback and see blocks locked and unlocked to guide you as puzzles are solved.  Locked blocks can be unlocked by making correct moves with unlocked blocks.
 1. You will not be able to submit until your solution is correct, or you’ve attempted two times the number of moves required to solve the puzzle. All blocks need to be connected to one another in order to run.
 1. You might see a message similar to the one from Flash below.  Please select Allow.  This message applies to the virtual machine, and the storage used for necessary interaction tracing is small and harmless.
+
 ![flash storage message](/images/fs3/sequences_instructions/flash_storage.png)
 
 ## Warm up: Let’s Bake a Cake
@@ -38,12 +39,14 @@ The solution of this warm up phase is provided below (requires scrolling). Try t
 
 Warm up Solution: 
 
-:  Don’t forget to use the when green flag clicked block to start the puzzle!
-: Use this block to go to a specified location of the oven.
-:  This block allows the puzzle to wait for 3 seconds before proceeding to the next step. In this case, we have to wait 3 seconds for the pie to bake.
-: This block changes the costume of the sprite. In our case, it changes the color of the pie after baking.
-: Use this block to go to the new specified location when we take the pie out.
-: Use this to say things in the sprite. You can write attributes within the white rectangle. We use this block to say “Your pie is ready!” when the pie is ready.
+![warm up solution](/images/fs3/sequences_instructions/warm-up_solution.png)
+
+![when green flag clicked](/images/fs3/sequences_instructions/when_green_clicked.png): Don’t forget to use the when green flag clicked block to start the puzzle!
+![go to x:170](/images/fs3/sequences_instructions/go_to.png): Use this block to go to a specified location of the oven.
+![wait 3 seconds](/images/fs3/sequences_instructions/wait_3_seconds.png): This block allows the puzzle to wait for 3 seconds before proceeding to the next step. In this case, we have to wait 3 seconds for the pie to bake.
+![next costume](/images/fs3/sequences_instructions/next_costume.png): This block changes the costume of the sprite. In our case, it changes the color of the pie after baking.
+![go to x:-150](/images/fs3/sequences_instructions/go_to_2.png): Use this block to go to the new specified location when we take the pie out.
+![say your pie is ready](/images/fs3/sequences_instructions/say.png): Use this to say things in the sprite. You can write attributes within the white rectangle. We use this block to say “Your pie is ready!” when the pie is ready.
 
 ## Puzzle 1: Asking for Help
 
