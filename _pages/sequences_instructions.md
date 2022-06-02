@@ -13,11 +13,12 @@ You are going to visit family friends! During this quest (4 puzzles in total), y
 ## Reminders & Hints:
 
 1. A sprite is a character or object you can control with programming blocks.
-1. Start each puzzle with the block, When Green Flag is Clicked  
-1. If your Parsons palette is grey (disabled ), you can use each enabled block multiple times.  If your Parsons palette is purple (enabled ), make sure to use each block in the palette at most once.
+1. Start each puzzle with the block, When Green Flag is Clicked  ![Start each puzzle with the block, When Green Flag is Clicked](/images/fs3/sequences_instructions/when_green_clicked.png)
+1. If your Parsons palette is grey (disabled ![parsons disabled](/images/fs3/sequences_instructions/parsons_grey.png)), you can use each enabled block multiple times.  If your Parsons palette is purple (enabled ![parsons enabled](/images/fs3/sequences_instructions/parsons_purple.png)), make sure to use each block in the palette at most once.
 1. If you follow the instructions precisely, you can earn the highest score using the fewest moves for each puzzle.  This is your goal!  You might or might not receive various types of feedback and see blocks locked and unlocked to guide you as puzzles are solved.  Locked blocks can be unlocked by making correct moves with unlocked blocks.
 1. You will not be able to submit until your solution is correct, or you’ve attempted two times the number of moves required to solve the puzzle. All blocks need to be connected to one another in order to run.
 1. You might see a message similar to the one from Flash below.  Please select Allow.  This message applies to the virtual machine, and the storage used for necessary interaction tracing is small and harmless.
+![flash storage message](/images/fs3/sequences_instructions/flash_storage.png)
 
 ## Warm up: Let’s Bake a Cake
 
