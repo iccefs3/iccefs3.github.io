@@ -115,7 +115,7 @@ The repeat until loop makes the code inside of the loop repeat until a certain c
 
 The sprite starts at coordinates x = -137, y = -37. We’ll now be doing some sprints forward and back on the track. Make the sprite run sprints until it is touching the mouse pointer using the “sensing” block: 
 
-![touching lock](/images/fs3/looping_instructions/fs3_i2_touching.png)
+![touching block](/images/fs3/looping_instructions/fs3_i2_touching.png)
 
 Run sprints by doing the following in the repeat until loop:
 
