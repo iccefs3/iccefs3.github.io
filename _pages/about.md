@@ -35,3 +35,4 @@ Contents
 1. [Demographics](/demographics/)
 1. [Usage Data](/usage_data/)
 1. [Sequences Instructions](/sequences_instructions/)
+1. [Looping Instructions](/looping_instructions/)
