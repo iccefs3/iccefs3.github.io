@@ -29,11 +29,9 @@ Contents
 ======
 1. [Intervention Description](/intervention/)
 1. [Surveys](/surveys/)
-1. [Mechanical Turk Survey Instructions](/mturk_survey/)
+1. [SAGE Objective Editor Language](/language/)
 1. [Prolific Survey Instructions](/prolific_instructions/)
 1. [Survey Results](/survey_results/)
 1. [Demographics](/demographics/)
 1. [Usage Data](/usage_data/)
-1. [Quests Descriptions](/puzzles_quests/)
-1. [Conditionals Instructions](/conditionals_instructions/)
 1. [Sequences Instructions](/sequences_instructions/)

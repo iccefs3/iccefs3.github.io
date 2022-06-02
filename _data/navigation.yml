@@ -21,8 +21,5 @@ main:
   - title: "Usage Data"
     url: /usage_data/
 
-  - title: "Quests Descriptions"
-    url: /puzzles_quests/
-
   - title: "Sequences Instructions"
     url: /sequences_instructions/
