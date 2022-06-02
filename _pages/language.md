@@ -16,42 +16,51 @@ and the implementation of the editor that can be used to write assessments using
 ## Language Reference
 
 The SAGE Objective Editor Language grammar is provided below. Terminals in this grammar are 
-represented using *bold* font and described with more detail in the following section. The &#8595; symbol 
+represented using **bold** font and described with more detail in the following section. The &#8595; symbol 
 represents a vertical connection between two blocks. The &#8594; symbol represents a horizontal 
-connection between two blocks. Productions that have the suffix **opt** are optional. As assessment 
+connection between two blocks. Productions that have the suffix *opt* are optional. As assessment 
 begins with the "assessment" non-terminal.
 
 assessment:
-    expectation &#8595; trigger-list<sub>opt</sub>
-    expectation: *expect* &#8594; actual &#8594; assert &#8594; matcher
+&nbsp;&nbsp;&nbsp;&nbsp;expectation &#8595; trigger-list<sub>opt</sub>
+
+expectation:
+&nbsp;&nbsp;&nbsp;&nbsp;**expect** &#8594; actual &#8594; assert &#8594; matcher
+    
 actual:
-    *actl-sprite*
-    *actl-block*
-    *actl-block-type*
-    *actl-key-pressed*
-    *actl-sprite-touch-sprite*
-    *actl-sprite-touch-color*
+&nbsp;&nbsp;&nbsp;&nbsp;**actl-sprite**
+&nbsp;&nbsp;&nbsp;&nbsp;**actl-block**
+&nbsp;&nbsp;&nbsp;&nbsp;**actl-block-type**
+&nbsp;&nbsp;&nbsp;&nbsp;**actl-key-pressed**
+&nbsp;&nbsp;&nbsp;&nbsp;**actl-sprite-touch-sprite**
+&nbsp;&nbsp;&nbsp;&nbsp;**actl-sprite-touch-color**
+
 assert:
-    *asrt-should*
-    *asrt-should-not*
+&nbsp;&nbsp;&nbsp;&nbsp;**asrt-should**
+&nbsp;&nbsp;&nbsp;&nbsp;**asrt-should-not**
+
 matcher:
-    *mtch-be-present*
-    *mtch-be-on-x-y*
-    *mtch-point-direction*
-    *mtch-move-steps*
-    *mtch-say*
+&nbsp;&nbsp;&nbsp;&nbsp;**mtch-be-present**
+&nbsp;&nbsp;&nbsp;&nbsp;**mtch-be-on-x-y**
+&nbsp;&nbsp;&nbsp;&nbsp;**mtch-point-direction**
+&nbsp;&nbsp;&nbsp;&nbsp;**mtch-move-steps**
+&nbsp;&nbsp;&nbsp;&nbsp;**mtch-say**
+
 trigger-list:
-    trigger
-    trigger-list &#8595; trigger
+&nbsp;&nbsp;&nbsp;&nbsp;trigger
+&nbsp;&nbsp;&nbsp;&nbsp;trigger-list &#8595; trigger
+
 trigger:
-    condition action
+&nbsp;&nbsp;&nbsp;&nbsp;condition action
+
 condition:
-    *cnd-if-pass*
-    *cnd-if-fail*
+&nbsp;&nbsp;&nbsp;&nbsp;**cnd-if-pass**
+&nbsp;&nbsp;&nbsp;&nbsp;**cnd-if-fail**
+
 action:
-    *actn-say*
-    *actn-include-block*
-    *actn-exclude-block*
+&nbsp;&nbsp;&nbsp;&nbsp;**actn-say**
+&nbsp;&nbsp;&nbsp;&nbsp;**actn-include-block**
+&nbsp;&nbsp;&nbsp;&nbsp;**actn-exclude-block**
  
 ## Terminals
  
