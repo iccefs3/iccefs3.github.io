@@ -22,12 +22,15 @@ connection between two blocks. Productions that have the suffix *opt* are option
 begins with the "assessment" non-terminal.
 
 assessment:
+
 &nbsp;&nbsp;&nbsp;&nbsp;expectation &#8595; trigger-list<sub>opt</sub>
 
 expectation:
+
 &nbsp;&nbsp;&nbsp;&nbsp;**expect** &#8594; actual &#8594; assert &#8594; matcher
     
 actual:
+
 &nbsp;&nbsp;&nbsp;&nbsp;**actl-sprite**
 &nbsp;&nbsp;&nbsp;&nbsp;**actl-block**
 &nbsp;&nbsp;&nbsp;&nbsp;**actl-block-type**
@@ -36,10 +39,12 @@ actual:
 &nbsp;&nbsp;&nbsp;&nbsp;**actl-sprite-touch-color**
 
 assert:
+
 &nbsp;&nbsp;&nbsp;&nbsp;**asrt-should**
 &nbsp;&nbsp;&nbsp;&nbsp;**asrt-should-not**
 
 matcher:
+
 &nbsp;&nbsp;&nbsp;&nbsp;**mtch-be-present**
 &nbsp;&nbsp;&nbsp;&nbsp;**mtch-be-on-x-y**
 &nbsp;&nbsp;&nbsp;&nbsp;**mtch-point-direction**
@@ -47,17 +52,21 @@ matcher:
 &nbsp;&nbsp;&nbsp;&nbsp;**mtch-say**
 
 trigger-list:
+
 &nbsp;&nbsp;&nbsp;&nbsp;trigger
 &nbsp;&nbsp;&nbsp;&nbsp;trigger-list &#8595; trigger
 
 trigger:
+
 &nbsp;&nbsp;&nbsp;&nbsp;condition action
 
 condition:
+
 &nbsp;&nbsp;&nbsp;&nbsp;**cnd-if-pass**
 &nbsp;&nbsp;&nbsp;&nbsp;**cnd-if-fail**
 
 action:
+
 &nbsp;&nbsp;&nbsp;&nbsp;**actn-say**
 &nbsp;&nbsp;&nbsp;&nbsp;**actn-include-block**
 &nbsp;&nbsp;&nbsp;&nbsp;**actn-exclude-block**
