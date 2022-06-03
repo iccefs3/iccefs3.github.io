@@ -23,6 +23,8 @@ You are going to visit family friends! During this quest (4 puzzles in total), y
 
 ## Warm up: Let’s Bake a Cake
 
+{% include image-gallery.html folder="/images/fs3/puzzles/sequences/0" %}
+
 In this puzzle, you are going to bake a pie for your friends.
 
 First, you go to the location x=170, y=0, which is where the oven is located.
@@ -55,6 +57,8 @@ Warm up Solution:
 
 ## Puzzle 1: Asking for Help
 
+{% include image-gallery.html folder="/images/fs3/puzzles/sequences/1" %}
+
 You tried a slice of your pie and realized that you forgot to add sugar! In this puzzle, you will consult a recipe book to bake another pie for your friends.
 
 First, you go to the recipe book at location x=-170, y=-30.
@@ -75,6 +79,8 @@ Number of blocks required to solve this puzzle: 16
 
 ## Puzzle 2: Are we there yet? - Part One
 
+{% include image-gallery.html folder="/images/fs3/puzzles/sequences/2" %}
+
 Your pie from the last puzzle was a success! You are really proud of yourself and decide to bring it to your friend’s house. You have decided to bring your younger friend Jasmine with you, who is rather inquisitive.
 
 During the trip, she asks “Are we there yet?” for 5 seconds, then the car moves 50 steps.
@@ -84,11 +90,15 @@ Number of blocks required to solve this puzzle: 1450
 
 ## Puzzle 3: Are we there yet? - Part Two
 
+{% include image-gallery.html folder="/images/fs3/puzzles/sequences/3" %}
+
 To return home, we first need to turn the car around. We can turn around by pointing to -90 degrees.  Jasmine is still inquisitive, but this time she asks “Are we there yet?” for 3 seconds, then the car moves 130 steps to the left.  This sequence happens three times until finally you say “we are there!”
 
 Number of blocks required to solve this puzzle: 9
 
 ## Puzzle 4: Playing Soccer
+
+{% include image-gallery.html folder="/images/fs3/puzzles/sequences/4" %}
 
 Your younger friend Jasmine is having a soccer match today! As a soccer star, she usually scores many goals during every game.
 
@@ -107,6 +117,8 @@ Number of blocks required to solve this puzzle: 13
 
 ## Puzzle 5: The Brooklyn Bridge
 
+{% include image-gallery.html folder="/images/fs3/puzzles/sequences/5" %}
+
 To celebrate the victory with Jasmine, the two of you have decided to go on a boat ride and visit the Brooklyn Bridge at night.
 
 1. To get on the boat, you go to location x=150, y = -100 and choose the boat of size 50%.
@@ -118,6 +130,8 @@ To celebrate the victory with Jasmine, the two of you have decided to go on a bo
 Number of blocks required to solve this puzzle:13
 
 # Puzzle 6: Saving For The Next Trip
+
+{% include image-gallery.html folder="/images/fs3/puzzles/sequences/6" %}
 
 You have had so much fun during the boat ride and want to start saving for the next big trip to Yellowstone. You plan to save for the next three months. Since you are a good baker now, you have decided to fund the trip through bake sales in addition to your regular salary.
 
