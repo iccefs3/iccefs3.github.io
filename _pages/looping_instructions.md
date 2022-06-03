@@ -32,6 +32,8 @@ You might see a message similar to the one from Flash below.  Please select Allo
 
 ## Warmup
 
+{% include image-gallery.html folder="/images/fs3/puzzles/looping/0" %}
+
 ![repeat block](/images/fs3/looping_instructions/fs3_i0_repeat.png)
 
 Looping: This block allows the user to repeat the blocks inside of it x number of times, where x is the value passed in next to the “repeat” statement.
@@ -81,6 +83,8 @@ Solution:
 
 ## Game 1: Workout
 
+{% include image-gallery.html folder="/images/fs3/puzzles/looping/1" %}
+
 Using loops can help us use many less blocks in our code and avoid having to do repetitive tasks.
 
 
@@ -105,6 +109,8 @@ Blocks needed: 9
 
 ## Game 2: Sprints
 
+{% include image-gallery.html folder="/images/fs3/puzzles/looping/2" %}
+
 Now, let’s practice the actual running to train for our 5K. We’ll be running forward and back until the “STOP” button is clicked. To do this, we need to use the “Repeat until” loop block shown below:
 
 
@@ -126,6 +132,9 @@ To sprint back, make the sprite glide to position x =- 137, y = -37.
 Blocks needed: 7
 
 ## Game 3: Field Day
+
+{% include image-gallery.html folder="/images/fs3/puzzles/looping/3" %}
+
 In this puzzle, we’ll train by running around a big soccer field indefinitely. We can make an action or sequence repeat forever using the forever loop. If this loop is used, everything inside it runs until the “STOP” button is pressed:
 
 ![repeat forever block](/images/fs3/looping_instructions/fs3_i3_forever.png)
@@ -137,6 +146,8 @@ First, we want to place the sprite at the center of the field pointing to the ri
 Blocks needed: 8
 
 ## Game 4: Rounding Corners
+
+{% include image-gallery.html folder="/images/fs3/puzzles/looping/4" %}
 
 Now that we’ve trained our forward sprint, let’s practice rounding corners. We’ll try running around a track once by repeating twice the steps to run half the track. We’ll be using a “wait” block at each corner to give us time to turn:
 
@@ -151,6 +162,8 @@ Blocks needed: 8
 
 
 ## Game 5: Running Laps
+
+{% include image-gallery.html folder="/images/fs3/puzzles/looping/5" %}
 
 We’ve successfully trained our speed and practiced rounding corners! Now let’s run laps on a track to train for our 5k. For this puzzle, we will be running around the track 3 times now, using a loop structure called “nested loops.” Placing one loop inside of another creates a nested loop:
 
@@ -172,6 +185,8 @@ Blocks needed: 10
 
 
 ## Game 6: Endurance Training
+
+{% include image-gallery.html folder="/images/fs3/puzzles/looping/6" %}
 
 Now that we’ve been training for a while, let’s intensify our workout to build even more endurance. Once again, we will be using nested loops: a structure in which a loop is placed inside of a loop. For this problem, we’ll be nesting a combination of loops and sequences within our main loop. An example of nesting is once again shown below:
 
