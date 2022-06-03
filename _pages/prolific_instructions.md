@@ -18,4 +18,4 @@ Your participation is a valuable element of our research and we are grateful for
 
 [https://barnard.az1.qualtrics.com/jfe/form/SV_5vCQzHXZjH2OhWB](https://barnard.az1.qualtrics.com/jfe/form/SV_5vCQzHXZjH2OhWB)
 
-The PDF is uploaded [here](https://drive.google.com/file/d/1CvIQ1bKbcRlg5cCCVKZa7yEbxMxw-LL-/view?usp=sharing).
+The PDF is uploaded [here](https://drive.google.com/file/d/1B3sHW7YvpUQH2X7ZVu0UnKQ26R5IGqY5/view).
